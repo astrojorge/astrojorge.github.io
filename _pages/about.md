@@ -16,3 +16,6 @@ Hi and welcome to my page! My name is Jorge, I am a astrophyiscs PhD candidate a
 I recieved a BS in Astrophysics from the University of Chicago in 2021. While in undergrad, I worked as a member of several research collaborations including the [Yerkes Plates Project](https://iopscience.iop.org/article/10.1088/1538-3873/abec20/pdf), the [COOL-LAMPS Collaboration](https://iopscience.iop.org/article/10.3847/1538-4357/abcb86/pdf) and the [MAROON-X Team](http://www.maroonx.science/). At ASU, I work with both Jenny Patience and Mike Line stuyding the spectra from brown dwarfs and exoplanet atmospheres. You can find the link to our group page [here](https://sites.google.com/a/asu.edu/michael-line-asu/welcome). You can learn more about me and my work using the links on the top of the page. Outside of work, I love watching films, basketball and going on hikes on some of the beautiful trails Arizona has to offer.
 
 
+
+Here are some pictures of during some observing runs! 
+
