@@ -17,5 +17,6 @@ I recieved a BS in Astrophysics from the University of Chicago in 2021. While in
 
 
 
-Here are some pictures of during some observing runs! 
+#Here are some pictures of during some observing runs! 
 
+![alt-text-1](ERIRA.png "title-1") ![alt-text-2](MMT.png "title-2")
