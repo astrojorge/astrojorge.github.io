@@ -19,6 +19,10 @@ I recieved a BS in Astrophysics from the University of Chicago in 2021. While in
 
 # Here are some pictures of during some observing runs! 
 
-![Me with Dr. Dan Riechart at the Green Bank Observatory](../images/ERIRA.png "title-1") 
 
-![Observing during Halloween at the MMT observatory](../images/MMT.png "title-2")
+Me with Dr. Dan Riechart at the Green Bank Observatory
+![](../images/ERIRA.png "Green Bank") 
+
+
+Observing during Halloween at the MMT observatory
+![](../images/MMT.png "MMT")
