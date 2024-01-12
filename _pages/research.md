@@ -1,1 +1,4 @@
-some research stuff
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
