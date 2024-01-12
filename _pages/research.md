@@ -18,4 +18,5 @@ My work revolves around stuyding the light that comes from the atmopsheres of th
 
 
 ![Transits](../images/transit.gif)
-Effect on shape of transmission spectra as a function of different constituent gasses in a planetary atmosphere (Credit, Uppsala University).
+
+Effect on shape of transmission spectra as a function of different constituent gasses in a planetary atmosphere (Credit, Uppsala University)
