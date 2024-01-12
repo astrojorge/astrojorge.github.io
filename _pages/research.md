@@ -11,6 +11,8 @@ The sum of my research focuses on charecertizing *substellar* objects, primarily
 ![Exoplanets](../images/51peg.png)
 Artist rendition of the first exoplanet discovered orbiting a sun-like star, 51 Pegasi b. (Credit, ESO)
 
+## Brown Dwarfs 
+
 
 Exoplanets are planets that orbit other stars in our galaxy. The first exoplanet, artist rendition above, was discovered in in 1995. Since then, over [5000 exoplanets](https://exoplanet.eu/plots/) have been discovered, covering a range of masses, sizes and temperatures. The majority of planets we have found are typically between the size of Earth and the planet Neptune, but we have found planets that are both smaller than Earth and larger than Jupiter, the biggest planet in our solar system. 
 
@@ -25,3 +27,5 @@ As these planets orbit their host stars, they will sometimes have an orbital geo
 
 
 ## Brown Dwarfs 
+
+![browndwarfs](../images/browndwarfs.jpg)
