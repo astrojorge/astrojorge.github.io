@@ -12,4 +12,9 @@ The sum of my research focuses on charecertizing *substellar* objects, primarily
 Artist rendition of the first exoplanet discovered orbiting a sun-like star, 51 Pegasi b. (Credit, ESO)
 
 
-Exoplanets are planets that orbit other stars in our galaxy. The first exoplanet, artist rendition above, was discovered in in 1995. Since then, over [5000 exoplanets](https://exoplanet.eu/plots/) have been discovered, covering a range of masses, sizes and temperatures. The majority of planets we have found are typically between the size of Earth and the planet Neptune, but we have found planets that are both smaller than Earth and larger than Jupiter, the biggest planet in our solar system.
+Exoplanets are planets that orbit other stars in our galaxy. The first exoplanet, artist rendition above, was discovered in in 1995. Since then, over [5000 exoplanets](https://exoplanet.eu/plots/) have been discovered, covering a range of masses, sizes and temperatures. The majority of planets we have found are typically between the size of Earth and the planet Neptune, but we have found planets that are both smaller than Earth and larger than Jupiter, the biggest planet in our solar system. 
+
+My work revolves around stuyding the light that comes from the atmopsheres of these planets, in order to understand what comprises these alien atmopsheres. The gif below demonstrates how we can learn about the composition of an atmosphere from stuyding the light from its host star that gets blocked by the planet as it passes in front of the face of the star, called a *transit*.
+
+
+![Transits](../images/transit.gif)
