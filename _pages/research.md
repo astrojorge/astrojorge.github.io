@@ -20,3 +20,8 @@ My work revolves around stuyding the light that comes from the atmopsheres of th
 ![Transits](../images/transit.gif)
 
 Effect on shape of transmission spectra as a function of different constituent gasses in a planetary atmosphere (Credit, Uppsala University)
+
+As these planets orbit their host stars, they will sometimes have an orbital geometry where they can pass right in between the face of the star and our view of the system. When it does, star light passes through the atmosphere of the planet, and is fitered through until it eventually reaches us. Different gases in the atmosphere absorb that incoming starlight, and this abrsobrtion happens at different wavelegnths depeding on the absorbtion medium. This is how astronmers are able to decipher what sort of molecules are present in the atmospheres of transiting exoplanets. 
+
+
+## Brown Dwarfs 
