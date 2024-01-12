@@ -32,3 +32,6 @@ As these planets orbit their host stars, they will sometimes have an orbital geo
 Visual showing the mass of brown dwarfs compared to planets and stars (Credit, NASA-JPL)
 
 My research also focuses on studying the atmopsheres of brown dwarfs, which as shown in the figure above, are objects intermiadte in mass between the largest planets and smallest stars. Unlike stars, brown dwarfs are not massive enough to undergo nuclear fusion, (the fusion of hydrogen into heliuem which powers our own sun), although some brown dwarfs are heavy enough to fuse an isotope of Hydrogen, Deuterium. At the lower mass end, the atmospheres of brown dwarfs behave remarkbly similar to that of the largest exoplanets. But while the light from exoplanets is dominated by its host star, brown dwarfs can be found as free floating objects, and thus we can measure the light that comes directly the object via its *thermal emission*.
+
+
+The types of brown dwarfs i am most interested in are certain kinds called of brown dwarfs called *T and Y dwarfs*. These are the smallest, coolest kinds of brown dwarfs.
