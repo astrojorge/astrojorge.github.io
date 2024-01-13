@@ -14,6 +14,14 @@ Education
 * B.S in Astronomy and Astrophysics, The University of Chicago, 2021
 * Ph.D in Astrophysics, Arizona State University, (Expected 2027)
 
+
+
+<a href="../files/SanchezCV_FEB2023" download>Click here to download</a>
+
+
+
+
+
 Work experience
 ======
 * Summer 2015: Research Assistant
