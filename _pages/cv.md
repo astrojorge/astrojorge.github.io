@@ -12,6 +12,6 @@ redirect_from:
 
 
 
-<a href="../files/SanchezCV_FEB2023" download>You can download my CV here</a>
+<a href="../files/SanchezCV_FEB2023.pdf" download>You can download my CV here</a>
 
 
